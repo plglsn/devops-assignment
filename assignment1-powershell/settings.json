@@ -1,0 +1,6 @@
+{
+    "clientId": "",
+    "clientCertificate": "CN=PowerShell App-Only",
+    "tenantId": "",
+    "authTenant": "common"
+}
